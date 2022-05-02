@@ -1,16 +1,13 @@
 # POKEDEX
 
 Nome dos integrantes: 
-- Pessoa 1
-- Pessoa 2
-- Pessoa 3
+- Daniel de Oliveira de Deus
+- João Vitor de Souza
 
-Link do Surge: www.link.com.br
+
+Link do Surge: Em desenvolvimento
 
 O que funciona:
-- Item 1
-- Item 2
+Estamos desenvolvendo.
 
 O que não funciona: 
-- Item 3
-- Item 4
